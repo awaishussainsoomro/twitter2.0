@@ -51,8 +51,8 @@ src/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/twitter-clone-appwrite.git
-   cd twitter-clone-appwrite
+   git clone https://github.com/YOUR_USERNAME/twitter2.0.git
+   cd twitter2.0
    ```
 
 2. **Install dependencies:**
